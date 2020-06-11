@@ -1,0 +1,7 @@
+organization=neena1914
+projectKey=com.management:OrderMS
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8580
+dashboardUrl=https://sonarcloud.io/dashboard?id=com.management%3AOrderMS
+ceTaskId=AXKhDq2V2LIfUnD9C8vn
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXKhDq2V2LIfUnD9C8vn

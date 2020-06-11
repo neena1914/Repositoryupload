@@ -1,0 +1,27 @@
+
+Mcom.management.OrderMS.controller.OrderController#getorders()Ljava/util/List;z
+pC:/Users/Umesh Raj/Repositoryupload/OrderMS/src/main/java/com/management/OrderMS/controller/OrderController.java ( "1*ˇ
+1z
+pC:/Users/Umesh Raj/Repositoryupload/OrderMS/src/main/java/com/management/OrderMS/controller/OrderController.java (&Å
+˛
+z
+pC:/Users/Umesh Raj/Repositoryupload/OrderMS/src/main/java/com/management/OrderMS/controller/OrderController.java (&1
+%0+com.management.OrderMS.service.OrderService"__id*G*E3
+1com.management.OrderMS.controller.OrderController"
+orderService†ù
+z
+pC:/Users/Umesh Raj/Repositoryupload/OrderMS/src/main/java/com/management/OrderMS/controller/OrderController.java (2
+%1java.util.List"Gcom.management.OrderMS.service.OrderService#getorders()Ljava/util/List;*3
+1
+%0+com.management.OrderMS.service.OrderService2getorders()π
+∂
+z
+pC:/Users/Umesh Raj/Repositoryupload/OrderMS/src/main/java/com/management/OrderMS/controller/OrderController.java (3
+orderDtojava.util.List"__id*
+
+%1java.util.List"ö
+z
+pC:/Users/Umesh Raj/Repositoryupload/OrderMS/src/main/java/com/management/OrderMS/controller/OrderController.java   (
+
+orderDtojava.util.ListB53
+1com.management.OrderMS.controller.OrderController
